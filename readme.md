@@ -26,4 +26,5 @@ kubectl port-forward --address 0.0.0.0 deployment/web 8000:8000
 4. [Результат команды “kubectl describe deployment web”](describe.txt)
 
 5. Перейти по адресу http://127.0.0.1:8080/hello.html . Только, у меня был занят 8080, я пробрасывал на 8000.
+
 ![img.png](img.png)
